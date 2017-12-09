@@ -7,8 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BoogioPeripheralNetworkManager.h"
+#import <MessageUI/MFMailComposeViewController.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <BoogioPeripheralNetworkManagerDelegate, MFMailComposeViewControllerDelegate>
 
 
 @end

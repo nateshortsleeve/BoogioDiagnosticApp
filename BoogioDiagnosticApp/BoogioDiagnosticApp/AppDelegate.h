@@ -7,8 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BoogioPeripheralNetworkManager.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+- (BoogioPeripheralNetworkManager *)getBoogioPeripheralNetworkReference;
 
 @property (strong, nonatomic) UIWindow *window;
 

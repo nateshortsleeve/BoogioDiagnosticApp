@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF61AC631FDC465F00B2F617 /* BoogioGlobals.m in Sources */ = {isa = PBXBuildFile; fileRef = CF61AC591FDC465E00B2F617 /* BoogioGlobals.m */; };
+		CF61AC641FDC466000B2F617 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF61AC5E1FDC465F00B2F617 /* SettingsViewController.m */; };
+		CF61AC651FDC466000B2F617 /* IOSCSVFileWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = CF61AC601FDC465F00B2F617 /* IOSCSVFileWriter.m */; };
+		CF61AC661FDC466000B2F617 /* BoogioPeripheral.m in Sources */ = {isa = PBXBuildFile; fileRef = CF61AC611FDC465F00B2F617 /* BoogioPeripheral.m */; };
+		CF61AC671FDC466000B2F617 /* BoogioPeripheralNetworkManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CF61AC621FDC465F00B2F617 /* BoogioPeripheralNetworkManager.m */; };
+		CF61AC971FDC4D7E00B2F617 /* Icon_20x20.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC881FDC4D7D00B2F617 /* Icon_20x20.png */; };
+		CF61AC981FDC4D7E00B2F617 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC891FDC4D7D00B2F617 /* Icon-Small.png */; };
+		CF61AC991FDC4D7E00B2F617 /* Icon-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC8A1FDC4D7D00B2F617 /* Icon-83.5@2x.png */; };
+		CF61AC9A1FDC4D7E00B2F617 /* boogio.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC8B1FDC4D7D00B2F617 /* boogio.png */; };
+		CF61AC9B1FDC4D7E00B2F617 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC8C1FDC4D7D00B2F617 /* Icon-60@3x.png */; };
+		CF61AC9C1FDC4D7E00B2F617 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC8D1FDC4D7D00B2F617 /* Icon-Small@2x.png */; };
+		CF61AC9D1FDC4D7E00B2F617 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC8E1FDC4D7D00B2F617 /* Icon-76@2x.png */; };
+		CF61AC9E1FDC4D7E00B2F617 /* Icon_60x60.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC8F1FDC4D7D00B2F617 /* Icon_60x60.png */; };
+		CF61AC9F1FDC4D7E00B2F617 /* Boogio_App_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC901FDC4D7D00B2F617 /* Boogio_App_Logo.png */; };
+		CF61ACA01FDC4D7E00B2F617 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC911FDC4D7D00B2F617 /* Icon-40.png */; };
+		CF61ACA11FDC4D7E00B2F617 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC921FDC4D7D00B2F617 /* Icon-60@2x.png */; };
+		CF61ACA21FDC4D7E00B2F617 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC931FDC4D7D00B2F617 /* Icon-Small@3x.png */; };
+		CF61ACA31FDC4D7E00B2F617 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC941FDC4D7E00B2F617 /* Icon-40@2x.png */; };
+		CF61ACA41FDC4D7E00B2F617 /* Icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC951FDC4D7E00B2F617 /* Icon-40@3x.png */; };
+		CF61ACA51FDC4D7E00B2F617 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = CF61AC961FDC4D7E00B2F617 /* Icon-76.png */; };
 		CFB7050F1FDC39EA00BAB19B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CFB7050E1FDC39EA00BAB19B /* AppDelegate.m */; };
 		CFB705121FDC39EA00BAB19B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFB705111FDC39EA00BAB19B /* ViewController.m */; };
 		CFB705151FDC39EA00BAB19B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFB705131FDC39EA00BAB19B /* Main.storyboard */; };
@@ -16,6 +36,31 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CF61AC591FDC465E00B2F617 /* BoogioGlobals.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoogioGlobals.m; sourceTree = "<group>"; };
+		CF61AC5A1FDC465E00B2F617 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		CF61AC5B1FDC465E00B2F617 /* BoogioPeripheral.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoogioPeripheral.h; sourceTree = "<group>"; };
+		CF61AC5C1FDC465F00B2F617 /* BoogioPeripheralNetworkManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoogioPeripheralNetworkManager.h; sourceTree = "<group>"; };
+		CF61AC5D1FDC465F00B2F617 /* IOSCSVFileWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IOSCSVFileWriter.h; sourceTree = "<group>"; };
+		CF61AC5E1FDC465F00B2F617 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		CF61AC5F1FDC465F00B2F617 /* BoogioGlobals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoogioGlobals.h; sourceTree = "<group>"; };
+		CF61AC601FDC465F00B2F617 /* IOSCSVFileWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IOSCSVFileWriter.m; sourceTree = "<group>"; };
+		CF61AC611FDC465F00B2F617 /* BoogioPeripheral.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoogioPeripheral.m; sourceTree = "<group>"; };
+		CF61AC621FDC465F00B2F617 /* BoogioPeripheralNetworkManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoogioPeripheralNetworkManager.m; sourceTree = "<group>"; };
+		CF61AC881FDC4D7D00B2F617 /* Icon_20x20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon_20x20.png; path = BoogioDiagnosticApp/Images/Icon_20x20.png; sourceTree = SOURCE_ROOT; };
+		CF61AC891FDC4D7D00B2F617 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small.png"; path = "BoogioDiagnosticApp/Images/Icon-Small.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC8A1FDC4D7D00B2F617 /* Icon-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-83.5@2x.png"; path = "BoogioDiagnosticApp/Images/Icon-83.5@2x.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC8B1FDC4D7D00B2F617 /* boogio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = boogio.png; path = BoogioDiagnosticApp/Images/boogio.png; sourceTree = SOURCE_ROOT; };
+		CF61AC8C1FDC4D7D00B2F617 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@3x.png"; path = "BoogioDiagnosticApp/Images/Icon-60@3x.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC8D1FDC4D7D00B2F617 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "BoogioDiagnosticApp/Images/Icon-Small@2x.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC8E1FDC4D7D00B2F617 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76@2x.png"; path = "BoogioDiagnosticApp/Images/Icon-76@2x.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC8F1FDC4D7D00B2F617 /* Icon_60x60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon_60x60.png; path = BoogioDiagnosticApp/Images/Icon_60x60.png; sourceTree = SOURCE_ROOT; };
+		CF61AC901FDC4D7D00B2F617 /* Boogio_App_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Boogio_App_Logo.png; path = BoogioDiagnosticApp/Images/Boogio_App_Logo.png; sourceTree = SOURCE_ROOT; };
+		CF61AC911FDC4D7D00B2F617 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40.png"; path = "BoogioDiagnosticApp/Images/Icon-40.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC921FDC4D7D00B2F617 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@2x.png"; path = "BoogioDiagnosticApp/Images/Icon-60@2x.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC931FDC4D7D00B2F617 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@3x.png"; path = "BoogioDiagnosticApp/Images/Icon-Small@3x.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC941FDC4D7E00B2F617 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40@2x.png"; path = "BoogioDiagnosticApp/Images/Icon-40@2x.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC951FDC4D7E00B2F617 /* Icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40@3x.png"; path = "BoogioDiagnosticApp/Images/Icon-40@3x.png"; sourceTree = SOURCE_ROOT; };
+		CF61AC961FDC4D7E00B2F617 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "BoogioDiagnosticApp/Images/Icon-76.png"; sourceTree = SOURCE_ROOT; };
 		CFB7050A1FDC39EA00BAB19B /* BoogioDiagnosticApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BoogioDiagnosticApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFB7050D1FDC39EA00BAB19B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CFB7050E1FDC39EA00BAB19B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -39,6 +84,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CF61AC811FDC46E000B2F617 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CF61AC901FDC4D7D00B2F617 /* Boogio_App_Logo.png */,
+				CF61AC8B1FDC4D7D00B2F617 /* boogio.png */,
+				CF61AC881FDC4D7D00B2F617 /* Icon_20x20.png */,
+				CF61AC8F1FDC4D7D00B2F617 /* Icon_60x60.png */,
+				CF61AC911FDC4D7D00B2F617 /* Icon-40.png */,
+				CF61AC941FDC4D7E00B2F617 /* Icon-40@2x.png */,
+				CF61AC951FDC4D7E00B2F617 /* Icon-40@3x.png */,
+				CF61AC921FDC4D7D00B2F617 /* Icon-60@2x.png */,
+				CF61AC8C1FDC4D7D00B2F617 /* Icon-60@3x.png */,
+				CF61AC961FDC4D7E00B2F617 /* Icon-76.png */,
+				CF61AC8E1FDC4D7D00B2F617 /* Icon-76@2x.png */,
+				CF61AC8A1FDC4D7D00B2F617 /* Icon-83.5@2x.png */,
+				CF61AC891FDC4D7D00B2F617 /* Icon-Small.png */,
+				CF61AC8D1FDC4D7D00B2F617 /* Icon-Small@2x.png */,
+				CF61AC931FDC4D7D00B2F617 /* Icon-Small@3x.png */,
+			);
+			name = Images;
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		CFB705011FDC39EA00BAB19B = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +126,17 @@
 		CFB7050C1FDC39EA00BAB19B /* BoogioDiagnosticApp */ = {
 			isa = PBXGroup;
 			children = (
+				CF61AC811FDC46E000B2F617 /* Images */,
+				CF61AC5F1FDC465F00B2F617 /* BoogioGlobals.h */,
+				CF61AC591FDC465E00B2F617 /* BoogioGlobals.m */,
+				CF61AC5B1FDC465E00B2F617 /* BoogioPeripheral.h */,
+				CF61AC611FDC465F00B2F617 /* BoogioPeripheral.m */,
+				CF61AC5C1FDC465F00B2F617 /* BoogioPeripheralNetworkManager.h */,
+				CF61AC621FDC465F00B2F617 /* BoogioPeripheralNetworkManager.m */,
+				CF61AC5D1FDC465F00B2F617 /* IOSCSVFileWriter.h */,
+				CF61AC601FDC465F00B2F617 /* IOSCSVFileWriter.m */,
+				CF61AC5A1FDC465E00B2F617 /* SettingsViewController.h */,
+				CF61AC5E1FDC465F00B2F617 /* SettingsViewController.m */,
 				CFB7050D1FDC39EA00BAB19B /* AppDelegate.h */,
 				CFB7050E1FDC39EA00BAB19B /* AppDelegate.m */,
 				CFB705101FDC39EA00BAB19B /* ViewController.h */,
@@ -129,9 +208,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF61AC9B1FDC4D7E00B2F617 /* Icon-60@3x.png in Resources */,
+				CF61AC9A1FDC4D7E00B2F617 /* boogio.png in Resources */,
+				CF61AC9E1FDC4D7E00B2F617 /* Icon_60x60.png in Resources */,
+				CF61ACA21FDC4D7E00B2F617 /* Icon-Small@3x.png in Resources */,
+				CF61ACA11FDC4D7E00B2F617 /* Icon-60@2x.png in Resources */,
+				CF61ACA31FDC4D7E00B2F617 /* Icon-40@2x.png in Resources */,
+				CF61ACA41FDC4D7E00B2F617 /* Icon-40@3x.png in Resources */,
 				CFB7051A1FDC39EA00BAB19B /* LaunchScreen.storyboard in Resources */,
+				CF61AC9C1FDC4D7E00B2F617 /* Icon-Small@2x.png in Resources */,
+				CF61AC9F1FDC4D7E00B2F617 /* Boogio_App_Logo.png in Resources */,
+				CF61AC971FDC4D7E00B2F617 /* Icon_20x20.png in Resources */,
 				CFB705171FDC39EA00BAB19B /* Assets.xcassets in Resources */,
+				CF61ACA01FDC4D7E00B2F617 /* Icon-40.png in Resources */,
+				CF61AC981FDC4D7E00B2F617 /* Icon-Small.png in Resources */,
 				CFB705151FDC39EA00BAB19B /* Main.storyboard in Resources */,
+				CF61AC9D1FDC4D7E00B2F617 /* Icon-76@2x.png in Resources */,
+				CF61AC991FDC4D7E00B2F617 /* Icon-83.5@2x.png in Resources */,
+				CF61ACA51FDC4D7E00B2F617 /* Icon-76.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,8 +237,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFB705121FDC39EA00BAB19B /* ViewController.m in Sources */,
+				CF61AC631FDC465F00B2F617 /* BoogioGlobals.m in Sources */,
+				CF61AC641FDC466000B2F617 /* SettingsViewController.m in Sources */,
+				CF61AC661FDC466000B2F617 /* BoogioPeripheral.m in Sources */,
 				CFB7051D1FDC39EA00BAB19B /* main.m in Sources */,
 				CFB7050F1FDC39EA00BAB19B /* AppDelegate.m in Sources */,
+				CF61AC671FDC466000B2F617 /* BoogioPeripheralNetworkManager.m in Sources */,
+				CF61AC651FDC466000B2F617 /* IOSCSVFileWriter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
